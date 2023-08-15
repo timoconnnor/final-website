@@ -73,7 +73,7 @@ const Footer = () => {
           <StyledFooterList>
             <StyledListItemLink
               sx={{ marginRight: "-0.3rem" }}
-              href="https://www.linkedin.com/in/max-oberholtzer/"
+              href="https://www.linkedin.com/in/timothy-o-connor-a17223198/"
               target="_blank"
             >
               <svg

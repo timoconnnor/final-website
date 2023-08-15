@@ -1,12 +1,12 @@
 [
   {
     "id": "0",
-    "title": "Mellow Heads NFT",
+    "title": "Math Generator",
     "image": "../images/mellowHeadsCollection.png",
-    "description": "Collection of 5000 algorithmically generated marshmallow characters on the Polygon Blockchain",
+    "description": "A math problem generator, created for the purpose of giving self-studying students.",
     "skills": ["React", "Material-UI", "Redux", "Polygon", "MetaMask"],
     "websiteLink": "https://mellowheadsnft.com",
-    "githubLink": "https://github.com/Maximilian-Oberholtzer/mellow-heads-nft"
+    "githubLink": "https://github.com/lukew3/mathgenerator"
   },
   {
     "id": "1",
