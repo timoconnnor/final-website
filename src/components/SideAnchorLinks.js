@@ -56,7 +56,7 @@ const SideAnchorLinks = () => {
     <>
       <StyledLeftAnchor>
         <StyledAnchorLink
-          href="https://www.linkedin.com/in/timothy-o-connor-a17223198"
+          href="www.linkedin.com/in/timoconnnor"
           target="_blank"
           aria-label="LinkedIn"
         >
