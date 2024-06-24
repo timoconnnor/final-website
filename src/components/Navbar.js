@@ -222,7 +222,7 @@ const Navbar = () => {
             <StyledResumeLink
               href={
                 process.env.PUBLIC_URL +
-                "/Timothy O'Connor Resume 2023.pdf"
+                "/timothyoconnorWebsite.pdf"
               }
               target="_blank"
             >
@@ -304,7 +304,7 @@ const Navbar = () => {
       >
         <StyledResumeLink
           href={
-            process.env.PUBLIC_URL + "/Timothy OConnor Resume 2023.pdf"
+            process.env.PUBLIC_URL + "/timothyoconnorWebsite.pdf"
           }
           target="_blank"
         >
